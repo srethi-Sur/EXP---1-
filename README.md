@@ -178,7 +178,7 @@ signal injected into the H-plane port will be divided equally between ports 1 an
 <img width="432" height="411" alt="image" src="https://github.com/user-attachments/assets/2159dc41-d540-4122-8b10-6497aaaeb989" />
 
 
-13. E and H Plane Tee 
+12. E and H Plane Tee 
 
 In E Plane Tee the junction of the auxiliary arm is made on the broad wall of the  main waveguide. And in H Plane Tee the junction of auxiliary arm is made on the narrow  wall of the main waveguide.
 
