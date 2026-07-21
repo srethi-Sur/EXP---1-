@@ -44,12 +44,15 @@ small hole located exactly at the center of the broad wall of the waveguide is u
 
 <img width="260" height="272" alt="image" src="https://github.com/user-attachments/assets/e1591cba-7f1f-4054-8d5f-b2fde22f73f6" />
 
-**The reflex klystron** :The reflex klystron, shown in Fig., employs a somewhat different stratagem to  extract energy from an electron beam in the form of microwave oscillation. The anode of the  klystron is a resonant cavity that contains perforated grids to permit accelerated electrons to  pass through and continue their journey. Such electrons are not, however, subsequently  collected by a positive electrode. Rather, they are deflected by a negatively polarized  'reflector' and are thereby caused to fall back into the cavity grids. The operational objective  of the tube is to have such electrons return to the cavity grids at just the fight time to reinforce  the electric oscillatory field appearing across these grids. When this situation exists,  oscillations are excited and sustained in the cavity. Microwave power is coupled out of the cavity by meansof a loop if coaxial cable is used, or simply through an appropriate aperture if  a waveguide is used for delivering the power to the load. After the kinetic energy of the electrons has been given up to the oscillatory field of the cavity, the spent electrons fall back to the positive biased control grid where they are collected, thereby adding to control grid current. If the tube is not oscillating, a relatively high number of electrons are deflected by the retarding field of the reflector with sufficient energy to pass through the cavity grids, thence to be collected by the control grid. However, when oscillations are sustained in the cavity, the falling electrons yield most of their energy to the oscillating electric field appearing across the cavity grids. Such  electrons are subsequently collected by the cavity grids, which in this function behave as the  plate of an ordinary diode. Inasmuch as the spent electrons do not fall into the positive field of the control grid, a profound dip in control-grid current accompanies the onset of oscillation within the cavity. 
+**The reflex klystron** :
+
+The reflex klystron, shown in Fig., employs a somewhat different stratagem to  extract energy from an electron beam in the form of microwave oscillation. The anode of the  klystron is a resonant cavity that contains perforated grids to permit accelerated electrons to  pass through and continue their journey. Such electrons are not, however, subsequently  collected by a positive electrode. Rather, they are deflected by a negatively polarized  'reflector' and are thereby caused to fall back into the cavity grids. The operational objective  of the tube is to have such electrons return to the cavity grids at just the fight time to reinforce  the electric oscillatory field appearing across these grids. When this situation exists,  oscillations are excited and sustained in the cavity. Microwave power is coupled out of the cavity by meansof a loop if coaxial cable is used, or simply through an appropriate aperture if  a waveguide is used for delivering the power to the load. After the kinetic energy of the electrons has been given up to the oscillatory field of the cavity, the spent electrons fall back to the positive biased control grid where they are collected, thereby adding to control grid current. If the tube is not oscillating, a relatively high number of electrons are deflected by the retarding field of the reflector with sufficient energy to pass through the cavity grids, thence to be collected by the control grid. However, when oscillations are sustained in the cavity, the falling electrons yield most of their energy to the oscillating electric field appearing across the cavity grids. Such  electrons are subsequently collected by the cavity grids, which in this function behave as the  plate of an ordinary diode. Inasmuch as the spent electrons do not fall into the positive field of the control grid, a profound dip in control-grid current accompanies the onset of oscillation within the cavity. 
 
 <img width="406" height="365" alt="image" src="https://github.com/user-attachments/assets/7bcac6c6-8a71-42b4-8424-bc2b819a868d" />
 
 
 3.**Isolator**:
+
 The microwave test bench includes an attenuator, and an isolator. Both of these help to stop the reflected power from reaching the oscillator and pulling the frequency of the cavity and Gunn diode off tune when the load impedance is varied. An isolator is a two port device that transmits microwave or radio frequency power in one direction only. It is used to shield equipment on its input side, from the effects of conditions on its output side; for example, to prevent a 
 microwave source being detuned by a mismatched load. An ideal isolator transmits all the power entering port 1 to port 2, while absorbing all the  power entering port 2. An isolator in a non-reciprocal device, with a non-symmetric matrix. To achieve non-reciprocity, an isolator must necessarily incorporate a non reciprocal material. At microwave frequencies this material is invariably a ferrite which is  biased by a static magnetic field. The ferrite is positioned within the isolator such that the  microwave signal presents it with a rotating magnetic field, with the rotation axis aligned  with the direction of the static bias field. The behavior of the ferrite depends on the sense of  rotation with respect to the bias field, and hence is different for microwave signals travelling in opposite directions. Depending on the exact operating conditions, the signal  travelling in one direction may either be phase-shifted, displaced from the ferrite or absorbed. 
 
@@ -132,6 +135,8 @@ With the advent of TVRO and DBS satellite television dishes, parabolic antennas 
 Although the term dish antenna is often used for a parabolic antenna, it can  connote a spherical antenna as well, which has a portion of spherical surface as the reflector shape.
 
 **TYPES OF PARABOLIC DISH**: 
+
+
 Parabolic antennas are distinguished by their shapes: 
 Cylindrical - The reflector is curved in only one direction and flat in the other.  The radio waves come to a focus not at a point but along a line. The feed is often a dipole  antenna located along the focal line. It radiates a fan-shaped beam, narrow in the curved dimension, and wide in the uncurved dimension. The curved ends of the reflector are sometimes capped by flat plates, to prevent radiation out the ends, and this is called a pillbox antenna. 
 Orange peel - Another type is very long and narrow, shaped like the letter "C".  This is called an orange peel design, and radiates an even wider fan beam. It is often used  for radar antennas. 
@@ -157,12 +162,15 @@ satellite communication antennas and radio telescopes. Aperture efficiency is on
 Gregorian - Similar to the Cassegrain design except that the secondary  reflector is concave, (ellipsoidal) in shape. Aperture efficiency over 70% can be achieved. 
 
 Gain: 
+
+
 The directive qualities of an antenna are measured by a dimensionless  parameter called its gain, which is the ratio of the power received by the antenna from a  source along its beam axis to the power received by a hypothetical isotropic antenna.  The gain of a parabolic antenna is: Where,  A is the area of the antenna aperture, that is, the mouth of the parabolic reflector d is the diameter of the parabolic reflector λ is the wavelength of the radio waves. eA is a dimensionless parameter called the aperture efficiency. The aperture  efficiencyof typical parabolic antennas is 0.55 to 0.60. 
 
 
 
 
 11. Magic Tee: 
+
 The magic tee is a combination of E and H plane tees.Arm 3 forms an H-plane tee with arms 1 and 2. Arm 4 forms an E-plane tee with arms 1 and 2. Arms 1 and 2are sometimes called the side or collinear arms. Port 3is called the H-plane port, and is  also called the Sum port or the P-port (for Parallel).  Port 4 is the E-plane port, and is also called the (delta) 
 port, difference port, or S-port (for Series). The name "magic tee" is derived from the way  in whichpower is divided among the various ports. A
 signal injected into the H-plane port will be divided equally between ports 1 and 2, and will be in phase. A signal injected into the E-plane port will also be divided equally between ports 1and 2, but will be 180 degrees out of phase. If signals are fed in through ports 1 and 2, theyare added at the H-plane port and subtracted at the E-plane port. Thus, with the portsnumbered as shown, and to within a phase factor, the full scattering matrix for  an ideal magic tee is
@@ -171,6 +179,7 @@ signal injected into the H-plane port will be divided equally between ports 1 an
 
 
 13. E and H Plane Tee 
+
 In E Plane Tee the junction of the auxiliary arm is made on the broad wall of the  main waveguide. And in H Plane Tee the junction of auxiliary arm is made on the narrow  wall of the main waveguide.
 
 
@@ -214,6 +223,7 @@ systems operating at low average power and are designed to absorball the applied
 
 
 14. W/g Coaxial Adaptor: 
+
 These adapters consist of a short section of waveguide 
 with aprobe transition coax mounted on broad wall. It transforms 
 waveguides impedance into coaxial impedance. Power can be 
@@ -225,6 +235,7 @@ waveguide band.
 
  
 Objectives: 
+
 1. Note relevant Technical specifications of the instruments. 
 2. Study position and functions of the front panel controls of the equipment. 3. Know basic principle of operation and functional block diagram of the instrument. 4. Facilities provided and limitations of the equipment if any. 
 5. Know initial settings of controls of the equipments before switching on the supply. 6. Precautions to be taken while carrying out the measurements. 
@@ -232,6 +243,7 @@ Objectives:
 
 
 Conclusions:
+
 Thus,the experiment is studied and verified
 
 
